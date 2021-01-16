@@ -26,3 +26,4 @@ dan lainnya : pip install ....
 - pydotplus
 - graphviz
 - tree
+Dll
